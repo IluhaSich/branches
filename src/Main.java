@@ -4,5 +4,6 @@ public class Main {
         String a = "2";
         int b = 2;
         double c= 2.0;
+        boolean d = false;
     }
 }
