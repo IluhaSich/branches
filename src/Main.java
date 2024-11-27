@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Это добавлено в ветке main");
         String a = "1";
         int b = 1;
+        double c = 1;
     }
 }
