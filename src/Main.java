@@ -5,5 +5,6 @@ public class Main {
         int b = 1;
         double c = 1;
         boolean d = true;
+        System.out.println(a + b + c + d);
     }
 }
